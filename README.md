@@ -1,4 +1,6 @@
 # 👋 Hi there, I’m @Sharll-large
+<img align="right" alt="Sharll's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharll-large" />
+
 - 👀 I’m interested in coding and Minecraft
 - 🌱 I’m currently learning Rust Programming
 - 📫 How to reach me goto discord 𝓢𝓱𝓪𝓻𝓵𝓵#1305
