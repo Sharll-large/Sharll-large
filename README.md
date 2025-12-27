@@ -5,8 +5,8 @@
 - 📫 Goto wechat JiaoR114 to find me!
 
 ## Main Projects
-#### [First Minecraft Launcher](https://github.com/Sharll-large/FMCL) - My first and greatest big project, my target is to make a stable, powerful and lite minecraft launcher.
-#### [Cortex](https://github.com/Sharll-large/Cortex) - A functional interpretive language. (Incompleted)
+#### [Esmel](https://github.com/Sharll-large/Esmel) - A functional interpretive language. I really worked hard to design and imporve it.
+#### [First Minecraft Launcher](https://github.com/Sharll-large/FMCL) - My first big project, my target is to make a stable, powerful and lite minecraft launcher.
 
 <!---
 Sharll-large/Sharll-large is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
